@@ -781,6 +781,7 @@ footer li {
     .search-div .h5 {
         font-size: 30px;
         line-height: 37px;
+        width: 80%;
     }
 
     .search-div .p {
@@ -867,6 +868,7 @@ footer li {
 
     .solution-div-2 h3 {
         line-height: 30px;
+        width: 80%;
     }
 
     .solution-div-2 p {
